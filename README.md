@@ -1,2 +1,2 @@
-# Example-4
-Constraint Example(from a point to a single bob or stone)
+# p5.play-boilerplate
+Boiler plate for p5.play
